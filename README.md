@@ -14,7 +14,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/3d-drawing-app.git
+git clone https://github.com/Codingmasster/3d-drawing-app.git
 Navigate to the Project Directory
 
 bash
